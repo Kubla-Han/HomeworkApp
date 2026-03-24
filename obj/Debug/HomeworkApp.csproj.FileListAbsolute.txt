@@ -1,0 +1,11 @@
+D:\Programing\Programs\HomeworkApp\bin\Debug\HomeworkApp.exe.config
+D:\Programing\Programs\HomeworkApp\bin\Debug\HomeworkApp.exe
+D:\Programing\Programs\HomeworkApp\bin\Debug\HomeworkApp.pdb
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.csproj.AssemblyReference.cache
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.exe.config
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.FrmRegister.resources
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.Properties.Resources.resources
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.csproj.GenerateResource.cache
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.csproj.CoreCompileInputs.cache
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.exe
+D:\Programing\Programs\HomeworkApp\obj\Debug\HomeworkApp.pdb
